@@ -25,3 +25,4 @@ print(tr.is_triangle())
 a, b, c = map(int, input().split())
 
 # еще коммент
+# еще
